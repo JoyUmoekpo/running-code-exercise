@@ -1,4 +1,4 @@
-///// Running Code Practice /////
+// Running Code Practice //
 /*
     In this file, there are 10 problems to complete.
     Each of them has instructions and a place to 
